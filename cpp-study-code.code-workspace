@@ -6,7 +6,12 @@
 	],
 	"settings": {
 		"files.associations": {
-			"iostream": "cpp"
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"system_error": "c",
+			"xlocale": "c",
+			"xstring": "c",
+			"xutility": "c"
 		}
 	}
 }
